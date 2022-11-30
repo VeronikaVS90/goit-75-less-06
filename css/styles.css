@@ -68,7 +68,8 @@ p {
 
 /* Header */
 .container {
-  width: 1168px;
+  width: 100%;
+  max-width: 1168px;
   margin: 0 auto;
   padding: 0 16px;
 }
