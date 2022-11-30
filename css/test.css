@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+  padding: 20px;
+  color: white;
+  background-color: chocolate;
+  border: 10px solid gold;
+  margin: 20px;
+}
+
+/* .box:last-child {
+  background-color: brown;
+} */
+
+/* .box-second {
+  margin-top: 30px;
+} */
+
+/* .footer-link {
+  margin-bottom: 12px;
+}
+
+.footer-link:last-child {
+  margin-bottom: 0;
+} */
