@@ -74,6 +74,25 @@ p {
   padding: 0 16px;
 }
 
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.header-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+
+.header-menu {
+  display: flex;
+  gap: 40px;
+}
+
 .header-link {
   color: var(--color-secondary);
   text-decoration: none;
